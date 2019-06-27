@@ -1,2 +1,2 @@
 # weather-web-app
-weather web app using python,tkinter
+This weather web app is developed using tkinter module of python3. Various Application Program Interface(APIs) have been used to collect data such as IP address, weather details(temperature, maximum temperature, minimum temperature,wind speed, humidity, pressure, sunrise time, sunset time etc.). Different API is used to get pollution detail of given place. This web app also shows hourly weather details. One can also search for any city which is entered by the user.
